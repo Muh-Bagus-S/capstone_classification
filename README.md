@@ -17,7 +17,7 @@ For Capstone Project Data Classification Class
    d. Mulai mengkode untuk: setup api token, memuat model, memasukkan parameter, target path csv file dataset, mengambil jumlah review, meng-chunk agar output bisa dalam jumlah banyak, parse agar bisa dijadikan Excel yang teratur, menulis prompt, menyimpan file excel dari output dan download file lewat menu Colab sisi kiri, membuat pivot table dan pivot chart.
 
 # Raw Dataset Link
-https://www.kaggle.com/datasets/datafiniti/consumer-reviews-of-amazon-products/data?select=Datafiniti_Amazon_Consumer_Reviews_of_Amazon_Products_May19.csv
+https://www.kaggle.com/datasets/datafiniti/consumer-reviews-of-amazon-products
 
 # Insights and Findings
 ## Insights: 
