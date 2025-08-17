@@ -1,7 +1,7 @@
 # capstone_classification
 For Capstone Project Data Classification Class
 
-# Project Title: Amazon Basics Battery Customer Review Classification
+# Project Title: Amazon Basics Battery Customer Review Classification, Categorization, and Excel-Ready
 
 # Project Overview:
 1. Latar Belakang: Banyaknya jumlah review serta isi review yang beragam memerlukan waktu dan usaha banyak apabila dilakukan secara manual, maka dengan menggunakan Model AI dari IBM yaitu IBM Granite Model 3.3 8b instruct, proses review dapat berjalan dengan cepat dan efisien. 
